@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1>Đây là Content</h1>
+      <div>Đây là Content</div>
       <Footer />
     </div>
   );
